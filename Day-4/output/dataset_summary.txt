@@ -1,0 +1,23 @@
+Dataset Summary
+========================================
+Rows: 10
+Columns: 6
+Columns: Student_ID, Name, Math, Science, English, Computer
+
+Average Scores
+Math: 82.60
+Science: 84.80
+English: 84.90
+Computer: 88.00
+
+Maximum Scores
+Math: 95
+Science: 97
+English: 96
+Computer: 99
+
+Minimum Scores
+Math: 67
+Science: 72
+English: 70
+Computer: 75
